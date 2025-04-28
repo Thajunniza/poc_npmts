@@ -1,0 +1,7 @@
+<mvc:View controllerName="com.thaj.pocnpmts.controller.pdf"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <Button  press="onPdf" text="pdf"></Button>
+    </Page>
+</mvc:View>
