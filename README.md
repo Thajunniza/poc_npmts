@@ -29,12 +29,9 @@ use npm package in ui5
     npm start
 ```
 
-#### Pre-requisites:
-
-1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
-
-
 #### Use Third-Party NPM Packages
+
+Reference URL : https://github.com/SAP-samples/ui5-typescript-tutorial/blob/main/exercises/ex4/README.md
 
 In this POC we will how to use npm packages in UI5 app without using the downloaded files
 I have used jsPDF node module and it downloads a sample PDF
